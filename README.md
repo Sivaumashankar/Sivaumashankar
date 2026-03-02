@@ -1,26 +1,36 @@
 <h1 align="center">Hi 👋, I'm Kundeti Shankar</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS | CI/CD | Kubernetes | Automation</h3>
+<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Automation</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 DevOps Engineer passionate about automation and cloud technologies  
-- ☁️ Working with AWS, CI/CD pipelines, and containerized environments  
-- 🛠️ Strong in Linux administration and infrastructure automation  
-- 📚 Always learning and exploring modern DevOps tools  
+- 💼 DevOps Engineer focused on Cloud & Automation  
+- ☁️ Experienced in AWS infrastructure and CI/CD pipelines  
+- 🐳 Working with containerized and Kubernetes environments  
+- 🔁 Automating deployments using modern DevOps tools  
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,aws,jenkins,docker,kubernetes,ansible,helm,git,nginx,mysql,python" />
+</p>
+
+- **GitOps & CD:** ArgoCD  
+- **Scripting:** Shell Scripting (Bash)  
+- **Containers:** Docker, Kubernetes  
+- **CI/CD:** Jenkins  
+- **Cloud:** AWS  
+- **Configuration Management:** Ansible  
+- **Package Manager:** Helm  
 
 ---
 
 ## 🌐 Portfolio
 
-- 🔗 https://kundetisiva.netlify.app  
-
----
-
-## 💬 Ask Me About
-
-**Linux | AWS | DevOps | Docker | Kubernetes | CI/CD**
+🔗 https://kundetisiva.netlify.app  
 
 ---
 
@@ -31,26 +41,18 @@
 
 ---
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,git,nginx,mysql,python,bash,grafana" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +60,3 @@
 ## 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ Focused on building scalable, reliable, and automated cloud infrastructure.
