@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kundeti Shankar</h1>
 <h3 align="center">🚀 DevOps Engineer | AWS Cloud | Kubernetes | Terraform | DevSecOps</h3>
 
-<p align="center">
-  <a href="https://github.com/Sivaumashankar">
-    <img src="https://komarev.com/ghpvc/?username=Sivaumashankar&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-💼 DevOps Engineer with **1.5+ years of experience** in AWS Cloud Operations & Production Support  
+💼 DevOps Engineer with 1.5+ years of experience in AWS Cloud Operations & Production Support  
 ☁️ Hands-on with AWS infrastructure (EC2, VPC, IAM, EKS, RDS, CloudWatch)  
-⚙️ Strong in Infrastructure as Code using **Terraform (S3 Backend + DynamoDB Locking)**  
-🚀 Built & deployed a **Production-Grade 3-Tier Application on AWS**  
+⚙️ Strong in Infrastructure as Code using Terraform (S3 Backend + DynamoDB Locking)  
+🚀 Built & deployed a Production-Grade 3-Tier Application on AWS  
 🔐 Practicing DevSecOps with SonarQube (SAST) & Veracode (DAST)  
 📊 Focused on automation, scalability & 99.9% SLA uptime  
 
@@ -50,25 +44,26 @@
 ## 💼 Professional Experience
 
 ### 🏢 Wipro Limited – Senior Associate (Cloud Operations)
-- Monitored AWS production infrastructure (EC2, ALB, Auto Scaling)
-- Reduced incidents by 20%
-- Managed IAM roles using least privilege principle
-- Supported CI/CD deployments across Dev & QA
+
+- Monitored AWS production infrastructure (EC2, ALB, Auto Scaling)  
+- Reduced incidents by 20%  
+- Managed IAM roles using least privilege principle  
+- Supported CI/CD deployments across Dev & QA  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sivaumashankar&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sivaumashankar&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.demolab.com?user=Sivaumashankar&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sivaumashankar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaumashankar&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaumashankar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,7 +79,3 @@
 📧 sivaumashankar94@gmail.com  
 🔗 https://www.linkedin.com/in/k-shankar-316510212/  
 🔗 https://kundetisiva.netlify.app  
-
----
-
-⭐ Building reliable, scalable and secure cloud infrastructure.
